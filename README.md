@@ -8,3 +8,4 @@ a repo of links to useful writeups of pwn challenges
 
 ## Linux Kernel
 + http://s3.eurecom.fr/nops/2018-01-24-csaw-2107-kws2.html
++ https://changochen.github.io/2018/02/07/sharif8/
