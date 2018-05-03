@@ -13,6 +13,7 @@ a repo of links to useful writeups of pwn challenges
 + double free + fd rewrite https://github.com/VoidHack/write-ups/tree/master/Harekaze%20CTF%202018/pwn/flea_attack
 + https://amritabi0s.wordpress.com/2018/04/02/0ctf-quals-babyheap-writeup/ fastbin dup, top chunck ptr in arena overwrite
 + https://dangokyo.me/2018/04/02/0ctf-2018-pwn-babyheap-write-up/ file stream oriented programming
++ https://amritabi0s.wordpress.com/2018/05/01/asis-ctf-quals-2018-fifty-dollors-write-up/ house of orange
 
 ## Linux Kernel
 + http://s3.eurecom.fr/nops/2018-01-24-csaw-2107-kws2.html
