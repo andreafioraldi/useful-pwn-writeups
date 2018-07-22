@@ -19,3 +19,8 @@ a repo of links to useful writeups of pwn challenges
 + http://s3.eurecom.fr/nops/2018-01-24-csaw-2107-kws2.html
 + https://changochen.github.io/2018/02/07/sharif8/
 + http://blog.eadom.net/writeups/0ctf-2018-zerofs-writeup/ copy_to_user copy_from_user CRED
+
+
+## Jemalloc resources
++ http://docplayer.net/34893477-Exploiting-the-jemalloc-memory-allocator-owning-firefox-s-heap-patroklos-argyroudis-chariton-karamitas-argp.html
++ http://www.phrack.org/issues/68/10.html
